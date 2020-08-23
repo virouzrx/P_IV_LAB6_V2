@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LAB6_V2
+namespace P4_LAB6
 {
     class Number
     {

@@ -1,4 +1,4 @@
-﻿namespace LAB6_V2
+﻿namespace P4_LAB6
 {
     partial class Form1
     {

@@ -10,7 +10,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LAB6_V2
+namespace P4_LAB6
 {
     public partial class Form1 : Form
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LAB6_V2
+namespace P4_LAB6
 {
     static class Program
     {
